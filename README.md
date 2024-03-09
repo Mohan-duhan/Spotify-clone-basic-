@@ -13,7 +13,7 @@ Welcome to the Spotify Clone (Basic) repository! This project is a simple attemp
 
    git clone https://github.com/Mohan-duhan/Spotify-clone-basic-.git (It's just an example)
 
-2. **Open in Browser**: Navigate to the cloned directory and open the `index.html` file in your preferred web browser to view the Spotify clone interface.
+2. **Open in Browser**: Navigate to the cloned directory and open the `MAJOR.html` file in your preferred web browser to view the Spotify clone interface.
 
 ## Project Structure
 - `MAJOR.html`: Main HTML file containing the structure of the Spotify clone interface.
