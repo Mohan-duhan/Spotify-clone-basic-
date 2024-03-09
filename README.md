@@ -32,6 +32,6 @@ Are you excited to contribute and improve this project? Fantastic! Here's how yo
 - Thanks to the creators of HTML and CSS for providing the tools to build web interfaces.
 
 ## Contact
-If you have any questions, suggestions, or just want to say hello, feel free to reach out to me at [your_email@example.com]. I'd love to hear from you!
-
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to me at duhanmohan9@gmail.com . I'd love to hear from you!
+Otherwise you can connect and contact with me Linkedin ( Link is in the bio , go check it out )
 Happy coding! 🚀
